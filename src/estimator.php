@@ -1,5 +1,5 @@
 <?php
-
+#Test Function
 function covid19ImpactEstimator($data) {
 	# Constants ...
 	$reportedCasesMultiplier = 10;
